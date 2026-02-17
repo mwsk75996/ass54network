@@ -1,2 +1,4 @@
 # Assignment 54
-## Config til vSRX - 1/2
+## Config til vSRX
+
+Med og uden multizones.
